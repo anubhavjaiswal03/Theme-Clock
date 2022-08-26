@@ -1,3 +1,3 @@
 # Theme Clock
 
-![Thene Clock](theme-clock.png)
+![Theme Clock](theme-clock.png)
